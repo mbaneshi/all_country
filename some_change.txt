@@ -1,2 +1,14 @@
+this lines wrote from local mashine 
+
 this is some minor dummy change to reflect 
 in remote after git push origin
+
+------------------
+
+
+these lines write from internet 
+so far ,so good !
+
+we push this file from our local machine 
+
+to remote repo .
